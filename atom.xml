@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Andkacuc.github.io</id>
     <title>珊珊和老刘</title>
-    <updated>2020-10-20T08:06:54.153Z</updated>
+    <updated>2020-10-20T08:10:24.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Andkacuc.github.io"/>
     <link rel="self" href="https://Andkacuc.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://Andkacuc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 珊珊和老刘</rights>
     <entry>
-        <title type="html"><![CDATA[遇见沈阳啊]]></title>
+        <title type="html"><![CDATA[遇见沈阳]]></title>
         <id>https://Andkacuc.github.io/post/yu-jian-shen-yang/</id>
         <link href="https://Andkacuc.github.io/post/yu-jian-shen-yang/">
         </link>
